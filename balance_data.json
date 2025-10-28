@@ -46,5 +46,15 @@
   "agentrouter_linuxdo_bwj": {
     "quota": 376.12,
     "used": 48.88
+  },
+  "anyrouter-zengql_cookies": {
+    "quota": 322.69,
+    "used": 2.31,
+    "timestamp": 1761614388.2583141
+  },
+  "agentrouter-zengql_cookies": {
+    "quota": 350.0,
+    "used": 0.0,
+    "timestamp": 1761614394.7909896
   }
 }
